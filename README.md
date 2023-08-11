@@ -6,16 +6,14 @@ The first thing to do is to clone the repository
 
 ```shell
 $ git clone https://github.com/mikiedev07/TestShop.git
-$ cd gis-kg
+$ cd TestShop
 ```
 
-Run the project via Docker (docker compose). Go to directory gis_kg_dj with Dockerfile and docker-compose.yml files.
+Run the project via Docker (docker compose). Go to directory TestShop with Dockerfile and docker-compose.yml files.
 
 ```shell
 docker compose up -d
 ```
-
-Type in your browser 127.0.0.1:8000 and you should see Swagger documentation.
 
 ### API
 
